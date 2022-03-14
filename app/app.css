@@ -80,6 +80,16 @@ div.desc {
   width: 24.99999%;
 }
 
+.responsive-3 {
+  padding: 0 6px;
+  float: left;
+  width: 50%;
+}
+.responsive-4 {
+  padding: 0 6px;
+  float: right;
+  width: 50%;
+}
 @media only screen and (max-width: 700px) {
   .responsive {
     width: 49.99999%;

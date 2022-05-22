@@ -383,3 +383,7 @@ z-index: 1; /*this renders the image on the top of the bottom photo.*/
   padding: 14px 16px;
   text-decoration: none;
 }
+
+.Project-Github-Btn-Margin-Shift{
+  margin-top: 10px;
+}

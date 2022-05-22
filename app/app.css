@@ -47,6 +47,14 @@ li a:hover:not(.active) {
 .active {
   background-color: #04AA6D;
 }
+.Git-iframe{
+  text-align: center;
+  margin-top: 15px;
+  float: right;
+}
+.GitiFrameWrapper{
+  padding-top: 10px;
+}
 /*Photo Gallery*/
 .photo{
 
@@ -149,7 +157,9 @@ div.desc {
 .column.side {
   width: 30%;
 }
-
+.column.half {
+  width: 50%;
+}
 /* Middle column */
 .column.middle {
   width: 70%;
@@ -364,4 +374,12 @@ z-index: 1; /*this renders the image on the top of the bottom photo.*/
   .title-Hi{
     margin-top: 10%;
   }
+}
+
+.Github-Button{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
